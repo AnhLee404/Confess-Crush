@@ -1,8 +1,8 @@
 const CONFIG = {
     titleWeb: "Chrion1712",
     introTitle: 'Hey bae!',
-    introDesc: `Hôm nay anh học toán hình\n
-    Tròn vuông chẳng có,toàn hình bóng emm�^^..`,
+    introDesc: 'Hôm nay anh học toán hình\n'
+    'Tròn vuông chẳng có,toàn hình bóng emm^^..',
     btnIntro: '😳',
     title: 'Cậu có thích tui hơmm 🥰',
     desc: 'Hong trả lời tui tính là thích , thoát ra tui cũng tính là thích luôn nhaaa☺️
